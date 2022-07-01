@@ -1,7 +1,7 @@
 # challenge3PasswordGen
 Password Generator
 
-##Purpose
+## Purpose
 A website that is a password generator
 
 ## Built With
@@ -11,8 +11,8 @@ A website that is a password generator
 
 ## WEBSITE URL
 
-##Screenshot of Password Generator Website
+## dcreenshot of Password Generator Website
 
-##Contribution
+## Contribution
 
 By Kimberly Tippol - Challenge 3 Password Generator
